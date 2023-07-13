@@ -23,7 +23,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 
 **Professional Experience**
 
-**Site Reliability and DevOps Engineer**
+**Site Reliability Engineer**
 
 - Collaborated closely with developers and analysts to address project requirements, effectively managing time and prioritizing multiple projects.
 - Reviewed monitoring events periodically, tuning threshold limits, and adding new monitoring endpoints to align with DevOps standards.
