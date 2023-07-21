@@ -78,7 +78,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 **B.Tech Information Technology, GTEC, Anna University, Chennai May 2007 - May 2011**
 
 **Notable Projects**
-
+- Rollout of log4j vulnerabilities fix for the entire Gen 1 cloud infrastructure.
 - Standardization of logging for Sanity scripts using Python. Created a shared library for the same.
 - Implemented an Ansible playbook to standardize repeated tasks and troubleshooting for Oracle Linux. Reduced manual efforts and Mean Time to Resolution (MTR) of incidents.
 - Configured telemetry using Prometheus and Grafana for Oracle Gen2 Cloud services.
