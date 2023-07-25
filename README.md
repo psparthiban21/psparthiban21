@@ -9,7 +9,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - **Cloud Technologies:** Oracle Cloud, AWS, Azure, Oracle Cloud@Customer
 - **Configuration Management:** Ansible
 - **Orchestration & k8s:** Terraform, Kubernetes, EKS, Helm
-- **Database:** Oracle DB, MySQL, PostgreSQL
+- **Database:** Oracle DB
 - **CI/CD Tools:** Jenkins, ArgoCD
 - **Version Control:** Git, GitHub, Bitbucket
 - **Application Server:** Tomcat, Oracle Webserver
