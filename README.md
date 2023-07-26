@@ -37,7 +37,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Monitored live systems in real-time to identify threats and performance issues.
 - Managed and maintained Kubernetes infrastructure, updating standard operating procedures for the environment.
 - Created customized Docker images based on project requirements.
-- Developed and managed multiple application images using technologies such as Spring Boot, Node.js, AngularJS, and Python.
+- Developed and managed multiple application images using technologies such as Java, Node.js, and Python.
 - Demonstrated strong knowledge in automating Kubernetes activities through CI/CD pipelines, templates, and scripting.
 - Created and maintained projects in Kubernetes, ensuring smooth operation and user administration for developers.
 - Troubleshoot build failures in Oracle Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
@@ -60,7 +60,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Built CI/CD pipelines using AWS CodePipeline to enable seamless software delivery.
 - Collaborated with design, engineering, and service excellence teams to establish automation standards and drive automation initiatives within Reliability Engineering domains.
 - Collaborated with stakeholders across product, development, application, and infrastructure teams to develop strategies for smooth change management, release deployments, and rollback procedures.
-- Evaluated the full stack of services before and after production releases to prevent, identify, and resolve problems that impact service availability.
+- Evaluated the full stack of services before and after production releases to prevent, identify, and resolve service availability problems.
 - Developed the ability to drive change to identifiable assets with minimal impact on service and supported core enterprise change processes.
 - Managed Oracle Linux and Red Hat virtual servers using Ansible and Git.
 - Participated in the SDLC for numerous web applications, supporting QA, staging, production, and DR environments.
