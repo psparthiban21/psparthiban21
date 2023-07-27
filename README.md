@@ -55,7 +55,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Configured Oracle Cloud@Customer Gen2 Exadata services and monitored Exadata infrastructure.
 - Automated storage provisioning for EMC VMAX and IBM SVC, as well as performed health checks using Ansible.
 - Created multiple deployments using Helm and deployed full-stack web applications on Kubernetes.
-- Built CI/CD pipelines using AWS CodePipeline to enable seamless software delivery.
+- Built CI/CD pipelines using Azure DevOps and oracle DevOps to enable seamless software delivery.
 - Collaborated with design, engineering, and service excellence teams to establish automation standards and drive automation initiatives within Reliability Engineering domains.
 - Collaborated with stakeholders across product, development, application, and infrastructure teams to develop strategies for smooth change management, release deployments, and rollback procedures.
 - Evaluated the full stack of services before and after production releases to prevent, identify, and resolve service availability problems.
@@ -63,7 +63,6 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Managed Oracle Linux and Red Hat virtual servers using Ansible and Git.
 - Participated in the SDLC for numerous web applications, supporting QA, staging, production, and DR environments.
 - Configured scalability for application servers using command-line interfaces and administered DNS systems in AWS using Route53.
-- Managed users and groups using Amazon Identity and Access Management (IAM).
 - Focused teams on developing innovative and cutting-edge approaches, leveraging effective resource allocation and strategic planning.
 - Applied best practices of Software Configuration Management (SCM) in Agile, Scrum, and Waterfall methodologies.
 - Utilized bug-tracking tools like JIRA and BugDB to ensure efficient issue tracking and resolution.
