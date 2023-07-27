@@ -6,14 +6,13 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 
 - **Operating Systems:** Linux, Windows
 - **Scripting languages:** Shell Scripting, Python
-- **Cloud Technologies:** Oracle Cloud, AWS, Azure, Oracle Cloud@Customer
+- **Cloud Technologies:** Oracle Cloud, Azure, Oracle Cloud@Customer
 - **Configuration Management:** Ansible
-- **Orchestration & k8s:** Terraform, Kubernetes, EKS, Helm
+- **Orchestration & k8s:** Terraform, Kubernetes, Helm
 - **Database:** Oracle DB
-- **CI/CD Tools:** Jenkins, ArgoCD
+- **CI/CD Tools:** Jenkins, ArgoCD, Azure DevOps, OCI DevOps
 - **Version Control:** Git, GitHub, Bitbucket
-- **Application Server:** Tomcat, Oracle Webserver
-- **Virtualization:** VMware
+- **Application Server:** Tomcat
 - **Containerization & Artificatory:** Docker, JFrog
 - **Monitoring Tools:** Telemetry, Prometheus, Grafana
 - **Storage & Backup:** EMC Storage, IBM Storage, EMC Networker
