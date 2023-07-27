@@ -51,7 +51,6 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Utilized Ansible for automation, developing playbooks, and troubleshooting incidents.
 - Configured telemetry for cloud services using Prometheus and Grafana.
 - Received expert training on Oracle DevOps, telemetry configuration, and Oracle Exadata Cloud@Customer.
-- Implemented AWS solutions including VPC, EC2, S3, CloudWatch, RDS, Autoscaling, SNS, and CloudFormation.
 - Implemented Azure solutions App Service, Function App, Storage Account, Azure Data Factory, Azure Key Vault, Log Analytics, Vnet/subnet.
 - Configured Oracle Cloud@Customer Gen2 Exadata services and monitored Exadata infrastructure.
 - Automated storage provisioning for EMC VMAX and IBM SVC, as well as performed health checks using Ansible.
@@ -77,7 +76,8 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 **B.Tech Information Technology, GTEC, Anna University, Chennai May 2007 - May 2011**
 
 **Notable Projects**
-- Rollout of log4j vulnerabilities fix for the entire Gen 1 cloud infrastructure.
+- Rollout of log4j vulnerabilities fix using Ansible for the entire Gen 1 cloud@customer infrastructure.
+- POC of Oracle cloud DevOps pipeline for Internal Python apps.
 - Standardization of logging for Sanity scripts using Python. Created a shared library for the same.
 - Implemented an Ansible playbook to standardize repeated tasks and troubleshooting for Oracle Linux. Reduced manual efforts and Mean Time to Resolution (MTR) of incidents.
 - Configured telemetry using Prometheus and Grafana for Oracle Gen2 Cloud services.
