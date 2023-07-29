@@ -24,28 +24,30 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 
 **Site Reliability Engineer**
 
+**Leadership**
+
 - Collaborated closely with developers and analysts to address project requirements, effectively managing time and prioritizing multiple projects.
 - Reviewed monitoring events periodically, tuning threshold limits, and adding new monitoring endpoints to align with DevOps standards.
 - Led and managed a 7 Site Reliability Engineers team, delegating tasks, providing mentorship, and technical training.
 - Partnered with IT and business departments to identify procedural gaps, documenting them for Scrum calls.
+- Working with Directors and Top level management to identify the Yearly goals and 
 - Administered company information security testing and protection plans.
 - Oversaw hardware infrastructure, staying updated with the latest technology trends.
-- Ensured software patches were applied and implemented measures to protect against threats.
+- Ensured software patches were applied and implemented measures to protect against threats as a part of global complaints.
 - Made recommendations for mitigating identified risks and improving system reliability.
 - Designed and developed training manuals to increase security awareness throughout the company.
+
+**Day Activities**
 - Monitored live systems in real-time to identify threats and performance issues.
 - Created customized Docker images based on project requirements.
 - Developed and managed multiple application images using technologies such as Java, Node.js, and Python.
 - Automated onboarding service deployments, significantly reducing manual effort.
-- Fully automated the end-to-end production deployment process, achieving a production-ready state in less than 5 minutes.
-- Designed and implemented end-to-end pipelines using Pipeline as Code (PaC) in Jenkins.
 - Streamlined the DevOps culture and aligned processes through Infrastructure as Code (IaC) and Pipeline as Code (PaC).
 - Maintained consistent infrastructure across multiple projects using shared libraries and standardized configurations.
 - Configured highly available and scalable platforms for applications using IaC and PaC.
 - Utilized Ansible for automation, developing playbooks, and troubleshooting incidents.
 - Configured telemetry for cloud services using Prometheus and Grafana.
 - Received expert training on Oracle DevOps, telemetry configuration, and Oracle Exadata Cloud@Customer.
-- Implemented Azure solutions App Service, Function App, Storage Account, Azure Data Factory, Azure Key Vault, Log Analytics, Vnet/subnet.
 - Configured Oracle Cloud@Customer Gen2 Exadata services and monitored Exadata infrastructure.
 - Automated storage provisioning for EMC VMAX and IBM SVC, as well as performed health checks using Ansible.
 - Built CI/CD pipelines using Azure DevOps and Oracle DevOps to enable seamless software delivery.
@@ -59,18 +61,19 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Applied best practices of Software Configuration Management (SCM) in Agile, Scrum, and Waterfall methodologies.
 - Utilized bug-tracking tools like JIRA and BugDB to ensure efficient issue tracking and resolution.
 
-**Kubernetes**
+**Kubernetes(Oracle Kubernetes Engine and Azure Kubernetes Services**
 - Managed and maintained Kubernetes infrastructure, updating standard operating procedures for the environment.
 - Demonstrated strong knowledge in automating Kubernetes activities through CI/CD pipelines, templates, and scripting.
 - Created multiple deployments using Helm and deployed full-stack web applications on Kubernetes.
 - Created and maintained projects in Kubernetes, ensuring smooth operation and user administration for developers.
-- Troubleshoot build failures in Oracle Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
+- Troubleshoot build failures in Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
 - Managed the network in Kubernetes and Oracle Cloud@Customer.
 
 **Terraform**
 
 **Azure**
 - Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
+- 
 
 **Education**
 
