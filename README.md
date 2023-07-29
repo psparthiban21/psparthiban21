@@ -67,6 +67,8 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Troubleshoot build failures in Oracle Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
 - Managed the network in Kubernetes and Oracle Cloud@Customer.
 
+**Terraform**
+
 **Azure**
 - Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
 
