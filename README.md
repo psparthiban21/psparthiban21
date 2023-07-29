@@ -61,7 +61,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Applied best practices of Software Configuration Management (SCM) in Agile, Scrum, and Waterfall methodologies.
 - Utilized bug-tracking tools like JIRA and BugDB to ensure efficient issue tracking and resolution.
 
-**Kubernetes(Oracle Kubernetes Engine and Azure Kubernetes Services**
+**Kubernetes(Oracle Kubernetes Engine and Azure Kubernetes Services**)
 - Managed and maintained Kubernetes infrastructure, updating standard operating procedures for the environment.
 - Demonstrated strong knowledge in automating Kubernetes activities through CI/CD pipelines, templates, and scripting.
 - Created multiple deployments using Helm and deployed full-stack web applications on Kubernetes.
