@@ -5,7 +5,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 **Skills**
 
 - **Operating Systems:** Linux, Windows
-- **Scripting languages:** Shell Scripting, Python
+- **Scripting languages:** Shell Scripting
 - **Cloud Technologies:** Oracle Cloud, Azure, Oracle Cloud@Customer
 - **Configuration Management:** Ansible
 - **Orchestration & k8s:** Terraform, Kubernetes, AKS, OKE, Helm
@@ -17,7 +17,6 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - **Monitoring Tools:** Telemetry, Prometheus, Grafana
 - **Storage & Backup:** EMC Storage, IBM Storage, EMC Networker
 - **Ticketing Tools & Bugs:** Jira, ServiceNow, Remedy, BugDB
-- **Pipeline as Code:** Jenkins Groovy
 
 
 **Professional Experience**
