@@ -37,7 +37,21 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Made recommendations for mitigating identified risks and improving system reliability.
 - Designed and developed training manuals to increase security awareness throughout the company.
 
-**Day Activities**
+**Kubernetes(Oracle Kubernetes Engine and Azure Kubernetes Services**)
+- Managed and maintained Kubernetes infrastructure, updating standard operating procedures for the environment.
+- Demonstrated strong knowledge in automating Kubernetes activities through CI/CD pipelines, templates, and scripting.
+- Created multiple deployments using Helm and deployed full-stack web applications on Kubernetes.
+- Created and maintained projects in Kubernetes, ensuring smooth operation and user administration for developers.
+- Troubleshoot build failures in Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
+- Managed the network in Kubernetes and Oracle Cloud@Customer.
+
+**Azure and Oracle Cloud**
+- Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
+- 
+
+**Terraform**
+
+**Process**
 - Monitored live systems in real-time to identify threats and performance issues.
 - Created customized Docker images based on project requirements.
 - Developed and managed multiple application images using technologies such as Java, Node.js, and Python.
@@ -61,19 +75,6 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Applied best practices of Software Configuration Management (SCM) in Agile, Scrum, and Waterfall methodologies.
 - Utilized bug-tracking tools like JIRA and BugDB to ensure efficient issue tracking and resolution.
 
-**Kubernetes(Oracle Kubernetes Engine and Azure Kubernetes Services**)
-- Managed and maintained Kubernetes infrastructure, updating standard operating procedures for the environment.
-- Demonstrated strong knowledge in automating Kubernetes activities through CI/CD pipelines, templates, and scripting.
-- Created multiple deployments using Helm and deployed full-stack web applications on Kubernetes.
-- Created and maintained projects in Kubernetes, ensuring smooth operation and user administration for developers.
-- Troubleshoot build failures in Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
-- Managed the network in Kubernetes and Oracle Cloud@Customer.
-
-**Terraform**
-
-**Azure**
-- Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
-- 
 
 **Education**
 
