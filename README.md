@@ -10,9 +10,9 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - **Configuration Management:** Ansible
 - **Orchestration & k8s:** Terraform, Kubernetes, AKS, OKE, Helm
 - **Database:** Oracle DB
-- **CI/CD Tools:** Jenkins, ArgoCD, Azure DevOps, OCI DevOps
+- **CI/CD Tools:** Jenkins, Azure DevOps, OCI DevOps
 - **Version Control:** Git, GitHub, Bitbucket
-- **Application Server:** Tomcat
+- **Application Server:** Tomcat, Oracle Websphere
 - **Containerization & Artificatory:** Docker, JFrog
 - **Monitoring Tools:** Telemetry, Prometheus, Grafana
 - **Storage & Backup:** EMC Storage, IBM Storage, EMC Networker
