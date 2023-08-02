@@ -51,7 +51,7 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 **Azure and Oracle Cloud**
 - Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
 - Built CI/CD pipelines using Azure DevOps and Oracle DevOps to enable seamless software delivery.
-- Multicloud setup between Microsoft Azure and Oracle Cloud using Azure Interconnect and OCI FastConnect.
+- Multicloud setup between Microsoft Azure and Oracle Cloud using Azure Oracle Cloud Interconnect.
 
 **Terraform and Ansible**
 - Automated storage provisioning for EMC VMAX and IBM SVC, as well as performed health checks using Ansible.
