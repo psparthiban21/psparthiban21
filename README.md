@@ -36,34 +36,33 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Made recommendations for mitigating identified risks and improving system reliability.
 - Designed and developed training manuals to increase security awareness throughout the company.
 
-**Kubernetes(Oracle Kubernetes Engine and Azure Kubernetes Services**)
+**Kubernetes and Docker(Oracle Kubernetes Engine and Azure Kubernetes Services**)
 - Managed and maintained Kubernetes infrastructure, updating standard operating procedures for the environment.
 - Demonstrated strong knowledge in automating Kubernetes activities through CI/CD pipelines, templates, and scripting.
 - Created multiple deployments using Helm and deployed full-stack web applications on Kubernetes.
 - Created and maintained projects in Kubernetes, ensuring smooth operation and user administration for developers.
 - Troubleshoot build failures in Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
 - Managed the network in Kubernetes and Oracle Cloud@Customer.
-
-**Azure and Oracle Cloud**
-- Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
-- 
-
-**Terraform**
-
-**Process**
-- Monitored live systems in real-time to identify threats and performance issues.
+- Configured telemetry for cloud services and Kubernetes using Prometheus and Grafana.
 - Created customized Docker images based on project requirements.
 - Developed and managed multiple application images using technologies such as Java, Node.js, and Python.
 - Automated onboarding service deployments, significantly reducing manual effort.
-- Streamlined the DevOps culture and aligned processes through Infrastructure as Code (IaC) and Pipeline as Code (PaC).
-- Maintained consistent infrastructure across multiple projects using shared libraries and standardized configurations.
+
+**Azure and Oracle Cloud**
+- Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
+- Built CI/CD pipelines using Azure DevOps and Oracle DevOps to enable seamless software delivery.
+- Multicloud setup between Microsoft Azure and Oracle Cloud using Azure Interconnect and OCI FastConnect.
+
+**Terraform and Ansible**
+- Automated storage provisioning for EMC VMAX and IBM SVC, as well as performed health checks using Ansible.
 - Configured highly available and scalable platforms for applications using IaC and PaC.
 - Utilized Ansible for automation, developing playbooks, and troubleshooting incidents.
-- Configured telemetry for cloud services using Prometheus and Grafana.
+
+**Process**
+- Monitored live systems in real-time to identify threats and performance issues.
+- Streamlined the DevOps culture and aligned processes through Infrastructure as Code (IaC) and Pipeline as Code (PaC).
+- Maintained consistent infrastructure across multiple projects using shared libraries and standardized configurations.
 - Received expert training on Oracle DevOps, telemetry configuration, and Oracle Exadata Cloud@Customer.
-- Configured Oracle Cloud@Customer Gen2 Exadata services and monitored Exadata infrastructure.
-- Automated storage provisioning for EMC VMAX and IBM SVC, as well as performed health checks using Ansible.
-- Built CI/CD pipelines using Azure DevOps and Oracle DevOps to enable seamless software delivery.
 - Collaborated with design, engineering, and service excellence teams to establish automation standards and drive automation initiatives within Reliability Engineering domains.
 - Collaborated with stakeholders across product, development, application, and infrastructure teams to develop strategies for smooth change management, release deployments, and rollback procedures.
 - Evaluated the full stack of services before and after production releases to prevent, identify, and resolve service availability problems.
