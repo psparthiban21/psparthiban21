@@ -1,6 +1,6 @@
 **Professional Summary**
 
-Experienced and results-driven Site Reliability Engineer (SRE) with over 12 years of expertise in cloud infrastructure and storage management. Demonstrated success in designing and implementing highly available and scalable solutions for diverse applications. Proven ability to effectively collaborate with cross-functional teams, including developers, analysts, and stakeholders, to ensure seamless project delivery. Skilled in automating and optimizing processes using industry-standard tools and technologies, such as Kubernetes, Docker, Ansible, and Jenkins. Adept at monitoring and troubleshooting live systems, proactively identifying and mitigating risks, and maintaining robust security measures.
+Experienced and results-driven Site Reliability Engineer (SRE) with over 12 years of cloud infrastructure and storage management expertise. Demonstrated success in designing and implementing highly available and scalable solutions for diverse applications. Proven ability to effectively collaborate with cross-functional teams, including developers, analysts, and stakeholders, to ensure seamless project delivery. Skilled in automating and optimizing processes using industry-standard tools and technologies, such as Kubernetes, Docker, Ansible, and Jenkins. Adept at monitoring and troubleshooting live systems, proactively identifying and mitigating risks, and maintaining robust security measures.
 
 **Skills**
 
@@ -29,7 +29,9 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Reviewed monitoring events periodically, tuning threshold limits, and adding new monitoring endpoints to align with DevOps standards.
 - Led and managed a 7 Site Reliability Engineers team, delegating tasks, providing mentorship, and technical training.
 - Partnered with IT and business departments to identify procedural gaps, documenting them for Scrum calls.
-- Working with Directors and Top level management to identify the Yearly goals and 
+- Working with Directors and Top level management to identify the Yearly goals and assign a target to Team members.
+- Working with Directors to plan team budget and make the necessary budget allocations.
+- Working with Directors to monitor the performance of team members and develop necessary training.
 - Administered company information security testing and protection plans.
 - Oversaw hardware infrastructure, staying updated with the latest technology trends.
 - Ensured software patches were applied and implemented measures to protect against threats as a part of global complaints.
@@ -41,21 +43,25 @@ Experienced and results-driven Site Reliability Engineer (SRE) with over 12 year
 - Demonstrated strong knowledge in automating Kubernetes activities through CI/CD pipelines, templates, and scripting.
 - Created multiple deployments using Helm and deployed full-stack web applications on Kubernetes.
 - Created and maintained projects in Kubernetes, ensuring smooth operation and user administration for developers.
-- Troubleshoot build failures in Kubernetes and automated daily tasks using Ansible, Shell Scripting, and Python.
+- Troubleshoot build failures in Kubernetes and automate daily tasks using Ansible, Shell Scripting, and Python.
 - Managed the network in Kubernetes and Oracle Cloud@Customer.
 - Configured telemetry for cloud services and Kubernetes using Prometheus and Grafana.
 - Created customized Docker images based on project requirements.
-- Developed and managed multiple application images using technologies such as Java, Node.js, and Python.
+- Developed and managed multiple application images using Java, Node.js, and Python technologies.
 - Automated onboarding service deployments, significantly reducing manual effort.
 
 **Azure and Oracle Cloud**
 - Experienced in Azure AD, AD B2B, implementing CA policy with MFA and IP range, AKV, access reviews, identity protection, and managed identities to enhance security and streamline access management.
 - Built CI/CD pipelines using Azure DevOps and Oracle DevOps to enable seamless software delivery.
 - Multicloud setup between Microsoft Azure and Oracle Cloud using Azure Oracle Cloud Interconnect.
+- Provision Oracle BaseDB, Autonomous DB, and Exadata Cloud service on Azure.
+- Managing the Exadata Cloud@Customer service and resources for dedicated customers.
+- Managing the Patching and service deployment of Exadata cloud services.
+- Working on cloud workflows and managing the billing subscription for Exadata cloud@Customer.
 
 **Terraform and Ansible**
 - Automated storage provisioning for EMC VMAX and IBM SVC, as well as performed health checks using Ansible.
-- Configured highly available and scalable platforms for applications using IaC and PaC.
+- Configured highly available and scalable platforms for applications using IaC(Terraform) and PaC(Nimbula Orchestration).
 - Utilized Ansible for automation, developing playbooks, and troubleshooting incidents.
 
 **Process**
